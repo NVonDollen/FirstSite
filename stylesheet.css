@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  background-color: #FFFFFF;
+}
+
+.navbar{
+  background-color: #333;
+  overflow: hidden;
+  top: 0; /* Position the navbar at the top of the page */
+  left: 0;
+  width: 100%; /* Full width */
+}
+
+.navbar a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background: #ddd;
+  color: black;
+}
+
+button{
+  margin: 5px;
+  padding: 10px;
+}
